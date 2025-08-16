@@ -1,0 +1,4 @@
+go 1.24.5
+
+use ./api-gql
+use ./api-rest
